@@ -15,4 +15,4 @@ I then focused on adding in the baseline functionality for a blackjack game, whi
 
 I continued working to improve the app, adding features such as a player money balance that increased/decreased based on their game result. I also took feedback from classmates on how to improve the interface of the app in order to make it easy to play and engaging. To increase engagement, I learned how to add sound effects to the app, which is one of my favorite feautures. If I have the chance to continue to improve the game, I'd like to add a title screen that the user is taken to before the actual game screen, and a how-to-play screen with instructions. I believe adding these screens would be easier to do using storyboards, an aspect of swift that I will be looking to become familiar with in the future. I'd also like the user to be able to see the cards in the dealer's hand so the app more closely resembles an actual blackjack game.
 
-![sounds](sounds.png)  ![money](money.png)
+![sounds](sounds.png)  ![balance](money.png)
